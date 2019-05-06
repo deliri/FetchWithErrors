@@ -1,4 +1,4 @@
-const API_URL = "https://rogersdataspark.appspot.com";
+const API_URL = "{{your_site_base_url}}";
 
 // Custom API error to throw
 function ApiError(message, data, status) {
